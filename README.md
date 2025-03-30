@@ -50,7 +50,7 @@ curl -X POST http://localhost:5000/api/auth/register
 curl -X POST http://localhost:5000/api/auth/login 
   -H "Content-Type: application/json" 
   -d  {
-        "email":"john@example.com",
+        "email":"aman@example.com",
         "password":"123456"
       }
       
