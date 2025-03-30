@@ -8,8 +8,8 @@
 1. User Registration
 POST /api/auth/register
 
-Required fields: name, email, password, address
-Optional fields: bio, profilePicture
+- Required fields: name, email, password, address
+- Optional fields: bio, profilePicture
 
 2. User Login
 POST /api/auth/login
