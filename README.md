@@ -11,7 +11,7 @@ POST /api/auth/register
 Required fields: name, email, password, address
 Optional fields: bio, profilePicture
 
-3. User Login
+2. User Login
 POST /api/auth/login
 
 Required fields: email, password
