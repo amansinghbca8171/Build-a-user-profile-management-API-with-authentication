@@ -72,4 +72,7 @@ You can test the API using tools like Postman or cURL:
 **Dependencies**
 
 Install required packages:
-- npm install express mongoose bcryptjs jsonwebtoken dotenv cors morgan
+- npm install
+
+Start server
+- npm start
